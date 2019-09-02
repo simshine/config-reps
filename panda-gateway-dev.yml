@@ -23,6 +23,7 @@ swagger:
   client:
     - panda-user-service
     - panda-gen-service
+    - ibps-platform-provider
 # 关闭默认路由
 zuul:
   ignoredServices: '*'
